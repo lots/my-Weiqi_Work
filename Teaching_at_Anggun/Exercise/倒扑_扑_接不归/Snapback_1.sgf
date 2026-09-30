@@ -1,0 +1,9 @@
+(;CA[utf-8]AB[ff][gf][ge][gd][ie][if][hg][dc][dd][ec]AW[ef][fg][cc][cd][de][df]
+[dg][gg][ed][fd][gc][hc][cb][jc]MA[dd][dc][ec][fc]C[Snapback 倒扑
+A "snapback" is the position created by playing a single stone with the intent of being captured because the reply to the capture is a larger re-capture. 所谓“倒扑”就是把自己的棋子送入对方虎口，通过牺牲自己来反吃掉对方更多棋子的方法。
+
+How to rescue the 4 "x" BLACK stones?]
+AP[MultiGo:4.4.4]SZ[13]AB[fc]MULTIGOGM[1]
+
+(;B[ee];W[fe];B[ee])
+(;B[fe];W[ee]))

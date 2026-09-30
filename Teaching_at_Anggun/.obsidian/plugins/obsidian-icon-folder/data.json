@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiFileTypePdf",
+      "TiJpg",
+      "TiFileTypeJpg",
+      "TiFolder"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Introductory入门": "TiFolder",
+  "Elementary初级": "TiFolder",
+  "Resources": "TiFolder",
+  "Exercise": "TiFolder",
+  "Elementary初级/Elementary_": "TiFolder",
+  "Exercise/WQSHZZL(Intro-10K)围棋死活周周练": "TiFolder",
+  "Resources/draw_boundary_1.jpg": "TiFileTypeJpg",
+  "Elementary初级/围棋初级指导－通往十级的捷径.pdf": "TiFileTypePdf"
+}

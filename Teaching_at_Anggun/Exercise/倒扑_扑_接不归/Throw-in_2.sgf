@@ -1,0 +1,11 @@
+(;CA[utf-8]AB[gf][he][kc][lc][lb][hc][fi][kf][jk][ha][kh][la][hb][ke][gh][fj][gk]
+[fg][kj][kk][gl][gm][ik][gd][fk]AW[ji][ia][kb][ka][ij][ib][jc][jd][je][fb][fc][fd]
+[ee][eg][dh][dj][ek][fl][cc][if][ig][ih][hi][hj][jj][ef]MA[je][ia][ib][ka][kb][jc]
+[jd][if][ig][ih][hi][hj][ij][jj][ji]C[扑 Throw-in
+Commonly used to reduced the opponent's liberties, then continue with breaking eye space.
+
+If WHITE stay alive in BLACK territory then WHITE will win, hence BLACK needs to kill the WHITE group.]
+AP[MultiGo:4.4.4]SZ[13]AB[ki]MULTIGOGM[1]
+
+(;B[jb];W[ja];B[ic];W[jb]C[WHITE only has ONE eye.])
+(;B[el];W[dl];B[fm];W[ic];B[dm];W[cl];B[cm];W[bm];B[em];W[bl]C[WHITE will wins.]))

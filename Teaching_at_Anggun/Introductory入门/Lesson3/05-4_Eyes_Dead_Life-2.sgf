@@ -1,0 +1,53 @@
+(;CA[utf-8]AP[MultiGo:4.4.4]SZ[13]C[Dead and Life - part 2
+
+Split BIG eye into two smaller eyes
+把大眼分割成两个小眼]
+MULTIGOGM[1]
+
+(;AB[ab][bb][cb][db][da][dl][dm][el][fl][gl][hl][hm]AW[ac][bc][cc][dc][ec][eb][gb]
+[cl][ck][dk][ek][fk][gk][hk][ik][il][kl]MA[aa][ba][ca][em][fm][gm]C[三目点中死 
+(Attack at the middle of straight-3)
+
+Beware of "Vital point"
+注意“要点”]
+N[1\: Needs two eyes (straight-3), 直三]
+(;B[ba];W[cm];B[fm])
+(;B[];W[ba]C[结束了！];B[ea];W[fa];B[];W[fm]C[也结束了！];B[cm];W[bl];B[bm]
+;W[al];B[im];W[jm];B[aa];W[ca];B[am];W[gm];B[em];W[gm];B[fm];W[gm]))
+(;AB[cl][db][eb][fb][gb][hb][ib][dl][el][fl][gl][hl][il][jl]AW[fc][ca][cb][cc][dc]
+[ec][km][gc][hc][ic][jc][jb][ja][bk][bl][bm][ck][dk][ek][fk][gk][hk][ik][jk][kk]
+[kl]C[六死八活]N[3\: 6-8 at the side];B[da];W[ia];B[ha];W[fa]
+(;B[cm];W[jm];B[im];W[fm]
+(;B[gm])
+(;B[];W[gm];B[em]))
+(;B[];W[cm];B[dm];W[jm];B[im]LB[fm:A][gm:B];W[fm]
+(;B[gm])
+(;B[];W[gm];B[hm];W[em])))
+(;AB[ab][bb][cb][db][ml][ll][kl][jl][il][hl][la][lb][lc][ld][le]AW[bc][ac][gk][gl]
+[gm][hk][ik][jk][kk][lk][mk][ea][eb][ec][dc][cc][ka][kb][kc][kd][ke][kf][lf][mf]
+C[（角上）四死六活]N[4\: 4-6 at the corner];B[da];W[ba];B[];W[hm];B[im]
+;W[km];B[lm])
+(;AB[gd][ea][eb][ec][ed][ee][fe][ge][jl][gc][gb][ga][ki][mi][li][kj][kk][jk][jm]
+[al][bl][ck][dk][dm][dl]AW[ll][kl][km][lk][df][mj][de][da][db][lj][dc][dd][ef][ff]
+[gf][he][hd][hc][hb][ak][bk][cj][bi][dj][ej][gl][ha][hf][ek][el]LB[fc:B][fb:A][bm:C]
+[cm:D][ml:E][mm:F]C[Bend-4, 直四
+
+Bend-4 (at the corner), 曲四/盘角曲四]
+N[2\: Straight-4, 直四]
+(;B[mm];W[ml])
+(;B[ml];W[mm];B[lm]))
+(;AB[ma][ac][bc][cc][cb][ca][ka][bk][ak][ck][cl][dl][dm][jm][km][jl][jk][kk][kj]
+[lj][mj][kg][kb][jb][jc][jd][je][kf][mk][lg][mg][la]AW[bd][ad][cd][dd][dc][db][da]
+[mb][lc][kc][kd][ke][le][lf][di][aj][lb][bj][mf][dk][ek][el][em][cj][ii][mi][li]
+[ki][jj][ik][il][im][jf]C[坏的眼形
+
+Vital point (要点)]N[5\: Bad eye shape]
+;B[]MA[md][ll][bm]C[The weak point for the shape. 眼形的弱点
+
+方四
+丁四
+
+刀板五
+花五、聚五、梅花五、花聚五
+
+梅花六，花六，葡萄六，聚六]))

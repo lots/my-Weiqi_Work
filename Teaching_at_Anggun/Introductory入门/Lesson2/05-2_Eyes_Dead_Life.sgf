@@ -1,0 +1,33 @@
+(;CA[utf-8]AP[MultiGo:4.4.4]SZ[13]C[Dead and Life
+（棋的）死活]MULTIGOGM[1]
+
+(;AB[fe][ff][ge][he][hf][hg][gg][fg][fh][fi][gi][hi][hh]CR[gf][gh]C[Life stone must, at least, have two Eyes.
+活棋必须要有至少两眼。]
+N[1\: Needs two eyes];W[gd];B[];W[hd];B[];W[ie];B[];W[if];B[];W[ig];B[];W[ih];B[]
+;W[ii];B[];W[hj];B[];W[gj];B[];W[fj];B[];W[ei];B[];W[eh];B[];W[eg];B[];W[ef];B[]
+;W[ee];B[];W[fd]LB[gf:A][gh:B]C[Cannot put stone in A or B.])
+(;AB[md][ld][le][lf][mf][lg][lh][mh][al][bl][cl][bm][dl][dm]AW[fh][gh][lm][ml][lk]
+[kk][kl][km][ee][fe][ge][gf][hg][hh][fg][ef]LB[aj:A][jj:B][ec:C][kc:D]C[Basic shapes of life stones.
+活棋的基本型。
+
+1) How many stones being used for each shape?
+
+A=?
+B=?
+C=?
+D=?
+E=？]
+N[2\: More examples of life shape])
+(;AB[aa][ma][am][bl][cl][cm][bk][ak][ll][lm][ml]AW[lc][mc][jm][jl][jk][jj][kj][lj]
+[mj][aj][bj][dl][dm][ab][bb][ba][ka][kb][kc][dj][dk][cj]LB[cc:A][jd:B][ii:C][ei:D]
+C[How many empty spaces is needed for group of stone to be alive?]N[3\: Space need to be alive])
+(;AB[gf][fg][gh][hg]AW[hf][ig][hh]C[Ko Fight
+打劫
+
+A>B>(A)>B>...
+A>B>C>(A)>B>C>...]
+N[4\: Ko fight];W[gg];B[aa];W[ma];B[hg];W[mb];B[ab];W[gg];B[ac];W[mc];B[hg])
+(;AB[bd][bb][cb][db][dc][dd][cd][fb][bc][be][bf][cf][df][de][mf][fc][gb][hb][hc]
+[hd][gd][fd][fe][ff][fg][he][hf][hg][hh][fh][jb][kb][lb][mb][jc][mc][md][jd][je]
+[ke][le][me][jf][jg][jh][ji][jj][mj][mi][mh][mg][gh][kj][lj]AW[ej][ai][bi][ci][di]
+[ek][el][em]CR[bj][bk][ak]SQ[cm][dl][cl]MA[dj][ei]LB[ja:C][ba:A][fa:B]N[5： Small_n_Big Eye]))

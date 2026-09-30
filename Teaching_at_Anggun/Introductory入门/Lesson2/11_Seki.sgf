@@ -1,0 +1,40 @@
+(;CA[utf-8]AP[MultiGo:4.4.4]SZ[9]C[Seki
+
+Both sides live together and no way to kill the other side (opponent).
+
+共活/双活
+]
+MULTIGOGM[1]
+
+(;AB[cc][ec][fc][cb][cd][dd][fb][fa]AW[da][db][dc][ed][fd][gd][gb][gc]TR[fa][fb]
+[fc][ec]MA[dc][db][da]C[How many qi for...
+
+BLACK?
+
+WHITE?
+
+Inner qi = ?
+Outer qi = ?]
+N[1\: Simple Seki]
+(;B[eb];W[ga];B[ca];W[ea])
+(;B[];W[eb];B[ca];W[ga];B[ea])
+(;B[ca];W[ga]TR[fa][fb][fc][ec]SQ[da][db][dc]LB[ea:A][eb:B]C[A, B are shared qi]
+;AB[ee][ef][eg][di][dh][ge]AW[fe][ff][fg][fh][ei][de]N[End game]))
+(;AB[bb][ca][da][db][dc][cc][bc][ed][fd][gd][hd][hc][hb][ha][ga]AW[eb][fa][gb][gc]
+[fc][ec][dd][cd][bd][ad][ac][ab][aa][ba]N[2\: Another seki example]
+(;B[ea];W[cb])
+(;B[];W[ea];B[fb]))
+(;AB[fd][ba][aa][ab][ac][ad][bd][cd][ce][de][ee][ha][ia][ib][ic][id][hd][gd][fe]
+[ec][eb][ea]AW[ca][fb][fc][gc][hc][hb][ga][bb][bc][cc][db][dc][dd][ed]N[3\: 3rd seki example]
+;B[]LB[da:A][fa:B])
+(;AB[ba][aa][ab][ac][ad][bd][cd][ce][de][ed][ec][fe][fd][fc][fb][fa]AW[bb][bc][cc]
+[ca][da][db][dc][dd][ee][ef][ff][gf][ge][hd][hb]C[1) Determine whose move now.
+2) What happen when BLACK move 1st?
+3) What happen when WHITE move 1st?
+
+Enough outer qi.]
+N[4\: Exercise])
+(;AB[ca][cb][cc][cd][dd][ed][ec][eb][fb][gb][ga]AW[ba][bb][bc][bd][ce][de][ee][fe]
+[fd][fc][gc][hc][hb][da][db][ea]N[5\: Cannot be greedy]
+(;B[fa];W[ha];B[dc];W[da];B[ea];W[db])
+(;B[];W[ha];B[];W[fa];B[dc];W[ea];B[da])))

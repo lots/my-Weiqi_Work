@@ -1,0 +1,24 @@
+(;CA[utf-8]AP[MultiGo:4.4.4]SZ[9]C[Simple capturing tactics
+
+There are many technique to capture enemy stones...
+
+围杀棋子的技巧]
+MULTIGOGM[1]
+
+(;AB[dc][ec][fd][fe]AW[hc][gc][fc][ed][cg][dh][bf]C[Net attack
+门， 门吃
+
+Ladder attack does not work here.
+当“征子”不行的时候
+]
+N[1\: Net attack]
+(;B[dd];W[ee];B[ef];W[de];B[ce];W[df];B[cf];W[dg])
+(;B[ee];W[dd];B[cd];W[de];B[df];W[ce];B[be];W[cf]))
+(;AB[fc][ec][gd][ge][gf]AW[gc][gb][hb][hd][cg][dh][bf][fd][fe]N[2\: Net attack 2]
+;B[ef]
+(;W[ee];B[de];W[ff];B[fg])
+(;W[ed];B[dd];W[dc];B[ee]))
+(;AB[bh][bg][bf][cf][ce][de][ee][hg][hh][ci][gd][hd][fd]AW[ai][bi][ah][ag][af][ae]
+[db][dd][cd][bd][be][hc][gc][fc]N[3\: Net attack 3];W[ch];B[di];W[dh];B[ei]
+(;W[eh];B[fi];W[fh];B[gi];W[gh];B[hi])
+(;W[fh];B[fi];W[gi];B[eh];W[eg])))

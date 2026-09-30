@@ -1,0 +1,49 @@
+(;CA[utf-8]AP[MultiGo:4.4.4]SZ[9]C[Eye
+眼/眼位
+
+============
+Eye is a TRAP
+
+Eye with 1 qi
+Eye with 2 qi
+Eye with more qi
+============
+
+How to kill stones with ONE eye.
+如何杀单眼的棋。]
+MULTIGOGM[1]
+
+(;AB[dd][de][df][ef][ff][fe][fd][ed]N[1\: Last kill at eye];W[dc];B[];W[ec];B[]
+;W[fc];B[];W[gd];B[];W[ge];B[];W[gf];B[];W[fg];B[];W[eg];B[];W[dg];B[];W[cf];B[]
+;W[ce];B[];W[cd]C[Atari!
+
+叫吃！];B[];W[ee]C[Single Eye will be killed.
+
+单眼不活。])
+(;AB[dd][de][df][ef][ff][fe][fd][ed]AW[cd][ce][cf][dg][eg][fg][gd][ge][gf][dc][fc]
+LB[ee:A][ec:B]C[Move at position E5 is a “Prohibited Move”; E5 is a "Prohibited point"
+Unless there is a CAPTURE
+ 
+A位(E5)不进子；E5是“禁点”
+杀棋除外
+]
+N[2\: Cannot suicide];W[ec]C[Atari!
+
+叫吃！];B[];W[ee])
+(;AB[dc][ec][fc][fd][fe][ff][ef][df][de][dd]C[Bigger eye
+1 eye with 2 qi
+
+大眼
+一眼二气]
+N[3\: Legal but useless];W[ee]C[This WHITE move is legal but pointless.  It will be killed eventually.])
+(;AB[dc][ec][fc][fd][fe][ff][ef][df][de][dd]AW[db][eb][fb][gc][gd][ge][gf][fg][eg]
+[dg][cf][ce][cd][cc]N[4\: Being surrounded];W[ee]C[Atari!
+
+叫吃！]
+(;B[ed];W[ee])
+(;B[];W[ed]))
+(;AW[ed][fd][fe][de][df][ef]C[If WHITE is not responding, how many steps needed for BLACK to kill WHITE?]
+N[5\: Exercise - how to kill WHITE];B[dd];W[];B[ec];W[];B[fc];W[];B[gd];W[];B[ge]
+;W[];B[ff];W[];B[eg];W[];B[dg];W[];B[cf];W[];B[ce]C[Atari!
+
+叫吃！];W[];B[ee]))
